@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 - Langages de programmation :
-  - <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v2.png"/> Java
-  - <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> Javascript
-  - <img src="https://img.icons8.com/color/24/000000/angularjs.png"/> Angular
-  - <img src="https://img.icons8.com/color/24/000000/react-native.png"/> React
-  - <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js
-  - <img src="https://img.icons8.com/color/24/000000/nestjs.png"/> Nest
-  - <img src="https://img.icons8.com/color/24/000000/python.png"/> Python
+<div align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</div>
 
 <!--
 **kyoRaz/kyoRaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
