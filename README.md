@@ -16,10 +16,15 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </p>
 
+<!-- STATS -->
+
+
+
 <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kyoRaz&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
 </p>
+  
 
 <!--
 **kyoRaz/kyoRaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
