@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- Langages de programmation :
+  - <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v2.png"/> Java
+  - <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> Javascript
+  - <img src="https://img.icons8.com/color/24/000000/angularjs.png"/> Angular
+  - <img src="https://img.icons8.com/color/24/000000/react-native.png"/> React
+  - <img src="https://img.icons8.com/color/24/000000/nodejs.png"/> Node.js
+  - <img src="https://img.icons8.com/color/24/000000/nestjs.png"/> Nest
+  - <img src="https://img.icons8.com/color/24/000000/python.png"/> Python
+
 <!--
 **kyoRaz/kyoRaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
