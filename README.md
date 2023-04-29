@@ -1,6 +1,8 @@
 ### Kaiza Jean 👋
 
-- Langages de programmation :
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Razafimahatratra+Steeve+Peraly"></h1>
+
+- Compétences :
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -10,6 +12,8 @@
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </p>
 
 <!--
